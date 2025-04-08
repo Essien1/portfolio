@@ -95,10 +95,10 @@ const PreLoader: React.FC = () => {
                     height: "60px",
                 }}
             >
-                <span>Tobi Odogwu</span>
+                <span>Essien Essien</span>
                 <span> / </span>
                
-                <span className="flex items-center justify-center gap-3">  Samuel Odogwu</span>
+                <span className="flex items-center justify-center gap-3"> Essien Effiom</span>
                 <div className="sub hidden"></div>
             </div>
         </div>
